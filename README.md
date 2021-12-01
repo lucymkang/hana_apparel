@@ -2,15 +2,11 @@
 
 # Link to the live website: **link**
 
-# HTML, CSS, Bootstrap, React, DATABASE were used
+HTML, CSS, Bootstrap, Javascript, React were used
 
-# 2 features?
-
-# Additional Features to add in the future
+Additional Features to add in the future
 
 - auth, payment
-
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
